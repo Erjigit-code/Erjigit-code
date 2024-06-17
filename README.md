@@ -1,7 +1,11 @@
-## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erjigit-code&show_icons=true&theme=radical)
+## Hi there! 👋
 
+I'm a Junior Flutter Developer from Kyrgyzstan 🇰🇬, passionate about creating beautiful and efficient mobile applications. 📱✨
 
+- 💼 **Experience**: Skilled in building user-friendly, responsive interfaces with Flutter.
+- 🌱 **Learning**: Constantly improving my skills and exploring new technologies in mobile development.
+- 💬 **Languages**: Fluent in Russian and English.
+- 📧 **Contact**: [erjigit1003@gmail.com](mailto:erjigit1003@gmail.com)
 <!--
 **Erjigit-code/Erjigit-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erjigit-code&show_icons=true&theme=radical)
