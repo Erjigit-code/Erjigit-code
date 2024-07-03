@@ -7,6 +7,7 @@ I'm a Junior Flutter Developer from Kyrgyzstan 🇰🇬, passionate about creati
 - 💬 **Languages**: Fluent in Russian and English.
 - 📧 **Contact**: [erjigit1003@gmail.com](mailto:erjigit1003@gmail.com)
 - ![Coding](https://github.com/Erjigit-code/toss_coin/blob/main/assets/gifs/animation2.gif?raw=true)
+- ![Coding](https://github.com/Erjigit-code/toss_coin/blob/main/assets/gifs/animation.gif?raw=true)
 <!--
 **Erjigit-code/Erjigit-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erjigit-code&show_icons=true&theme=radical)
