@@ -32,7 +32,7 @@ I'm a Junior Flutter Developer from Kyrgyzstan 🇰🇬, passionate about creati
 ---
 
 ### 🌟 Current Projects:
-- [Project 1](https://github.com/Erjigit-code/toss_coin.git): A fun and interactive mobile application that simulates flipping a coin. Users can choose between heads or tails, flip the coin, and see the result with a smooth animation. The application also allows users to track their record of heads or tails flips. Built with Flutter and Firebase for a seamless user experience.
+- [Toss Coin](https://github.com/Erjigit-code/toss_coin.git): A fun and interactive mobile application that simulates flipping a coin. Users can choose between heads or tails, flip the coin, and see the result with a smooth animation. The application also allows users to track their record of heads or tails flips. Built with Flutter and Firebase for a seamless user experience.
 
 ---
 
