@@ -1,5 +1,7 @@
 ## Hi there! 👋
 
+![Background Image](https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-analysis-of-international-Flutter-developer-salary-ranges-with-data-covering-Germany-Switzerland-United-Kingdom-Eastern-Europe-India-and-USA.jpg)
+
 I'm a Junior Flutter Developer from Kyrgyzstan 🇰🇬, passionate about creating beautiful and efficient mobile applications. 📱✨
 
 - 💼 **Experience**: Skilled in building user-friendly, responsive interfaces with Flutter.
@@ -57,10 +59,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<style>
-body {
-  background-image: url('https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-analysis-of-international-Flutter-developer-salary-ranges-with-data-covering-Germany-Switzerland-United-Kingdom-Eastern-Europe-India-and-USA.jpg');
-  background-size: cover;
-}
-</style>
