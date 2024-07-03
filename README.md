@@ -9,8 +9,8 @@ I'm a Junior Flutter Developer from Kyrgyzstan 🇰🇬, passionate about creati
 
 <!-- Adding GIFs with specified width and parallel alignment -->
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://github.com/Erjigit-code/toss_coin/blob/main/assets/gifs/animation2.gif?raw=true" width="300" />
-  <img src="https://github.com/Erjigit-code/toss_coin/blob/main/assets/gifs/animation.gif?raw=true" width="300" />
+  <img src="https://github.com/Erjigit-code/toss_coin/blob/main/assets/gifs/animation2.gif?raw=true" width="300" height = "400" />
+  <img src="https://github.com/Erjigit-code/toss_coin/blob/main/assets/gifs/animation.gif?raw=true" width="300" height = "400" />
 </div>
 
 <!--
