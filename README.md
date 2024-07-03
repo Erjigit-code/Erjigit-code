@@ -38,11 +38,13 @@ I'm a Junior Flutter Developer from Kyrgyzstan 🇰🇬, passionate about creati
 
 ---
 
-### 📫 How to reach me:
+##📫 How to reach me:
 <p>
   <a href="mailto:erjigit1003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/erjigit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Erjigit-code"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://t.me/+996225415161"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/erjigit_k?igshid=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <!--
