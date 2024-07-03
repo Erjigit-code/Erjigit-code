@@ -1,4 +1,4 @@
-## Hi there! 👋
+<h1 align="center">Hi there! 👋</h1>
 
 ![Background Image](https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-analysis-of-international-Flutter-developer-salary-ranges-with-data-covering-Germany-Switzerland-United-Kingdom-Eastern-Europe-India-and-USA.jpg)
 
